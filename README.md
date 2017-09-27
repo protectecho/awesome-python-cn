@@ -196,7 +196,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Markdown
     *   Mistune：快速并且功能齐全的纯 Python 实现的 Markdown 解析器。[官网](https://github.com/lepture/mistune)
     *   Python-Markdown：John Gruber’s Markdown 的 Python 版实现。[官网](https://github.com/waylan/Python-Markdown)
-    *   Python-Markdiwn2：纯 Python 实现的 Markdown 解析器，比 Python-Markdown 更快，更准确，可扩展。[官网](https://github.com/trentm/python-markdown2)
+    *   Python-Markdown2：纯 Python 实现的 Markdown 解析器，比 Python-Markdown 更快，更准确，可扩展。[官网](https://github.com/trentm/python-markdown2)
 *   YAML
     *   PyYAML：Python 版本的 YAML 解析器。[官网](http://pyyaml.org/)
 *   CSV
@@ -265,7 +265,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   thefuck：修正你之前的命令行指令。[官网](https://github.com/nvbn/thefuck)
     *   mycli：一个 MySQL 命令行客户端，具有自动补全和语法高亮功能。[官网](https://github.com/dbcli/mycli)
     *   pgcli：Postgres 命令行工具，具有自动补全和语法高亮功能。[官网](https://github.com/dbcli/pgcli)
-    *   try：一个从来没有更简单的命令行工具，用来试用python库。[官网](https://github.com/timofurrer/try)
+    *   try：一个从来没有更简单的命令行工具，用来试用python库。[官网](https://github.com/timofurrer/try)
 
 ### 下载器
 
@@ -411,7 +411,7 @@ Python实现的数据库。
 全栈 Web 框架。
 
 *   [Django](http://hao.jobbole.com/django/)：Python 界最流行的 web 框架。[官网](https://www.djangoproject.com/)
-    *   [awesome-django](https://github.com/rosarior/awesome-django)系列
+    *   [awesome-django](https://gitlab.com/rosarior/awesome-django)系列
 *   [Flask](http://hao.jobbole.com/flask/)：一个 Python 微型框架。[官网](http://flask.pocoo.org/)
     *   [awesome-flask](https://github.com/humiaozuzu/awesome-flask)系列
 *   pyramid：一个小巧，快速，接地气的开源Python web 框架。
@@ -864,6 +864,7 @@ Python实现的数据库。
 *   Lint工具
     *   Flake8：模块化源码检查工具: pep8, pyflakes 以及 co。[官网](https://pypi.python.org/pypi/flake8)
     *   Pylint：一个完全可定制的源码分析器。[官网](https://www.pylint.org/)
+    *   YAPF: Google的Python代码格式化工具。[官网](https://github.com/google/yapf)
     *   pylama：Python 和 JavaScript 的代码审查工具。[官网](https://pylama.readthedocs.org/en/latest/)
 *   代码格式化
     *   autopep8：自动格式化 Python 代码，以使其符合 PEP8 规范。[官网](https://github.com/hhatto/autopep8)
@@ -957,7 +958,7 @@ Python实现的数据库。
 *   pydeep：Python 深度学习库。[官网](https://github.com/andersbll/deeppy)
 *   vowpalporpoise：轻量级 [Vowpal Wabbit](https://github.com/JohnLangford/vowpalwabbit/) 的 Python 封装。[官网](https://github.com/josephreisinger/vowpalporpoise)
 *   skflow：一个 [TensorFlow](https://github.com/tensorflow/tensorflow) 的简化接口(模仿 scikit-learn)。[官网](https://github.com/tensorflow/skflow)
-
+*   Caffe: 一个[Caffe](https://github.com/BVLC/caffe)的python接口。[官网](http://caffe.berkeleyvision.org)
 ### MapReduce
 
 MapReduce 框架和库。
